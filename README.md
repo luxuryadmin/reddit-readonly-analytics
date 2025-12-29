@@ -17,3 +17,6 @@ for aggregate sentiment and trend analysis.
 
 This repository exists for API access review and compliance demonstration.
 
+## Contact
+For Reddit API review questions, please contact:
+wasimashraf1@gmail.com
